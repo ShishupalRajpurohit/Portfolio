@@ -1,0 +1,831 @@
+{
+  "personal": {
+    "name": "Shishupal Rajpurohit",
+    "title": "AI Engineer | GenAI | RAG Systems | LangChain | FastAPI | LLM Applications | AI Automation",
+    "location": "Mumbai, MH, India",
+    "email": "shishupalrajpurohit2000@gmail.com",
+    "phone": "+91 9664207640",
+    "summary": "AI Engineer focused on building practical Generative AI applications that solve real business problems through automation, intelligent search, AI-powered workflows, RAG systems, chatbots, document intelligence, and FastAPI-based backend services.",
+    "linkedin": "https://www.linkedin.com/in/shishupal-rajpurohit-039290190/",
+    "image": "",
+    "headline": "Engineering intelligence that works in the real world.",
+    "availability": "Open to AI/ML, Generative AI and AI Engineering opportunities",
+    "resumeUrl": "/resume/resume.pdf",
+    "website": "",
+    "github": "https://github.com/ShishupalRajpurohit",
+    "upwork": "",
+    "twitter": "",
+    "x": "",
+    "instagram": "",
+    "youtube": "",
+    "huggingface": "",
+    "medium": "",
+    "calendly": "",
+    "otherLinks": []
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/shishupal-rajpurohit-039290190/",
+    "github": "https://github.com/ShishupalRajpurohit",
+    "upwork": "",
+    "twitter": "",
+    "x": "",
+    "instagram": "",
+    "youtube": "",
+    "huggingface": "",
+    "medium": "",
+    "calendly": "",
+    "website": ""
+  },
+  "about": {
+    "summary": "Hands-on AI engineering experience across Generative AI, LLM applications, RAG pipelines, intelligent search, document intelligence, AI chatbots, workflow automation, and backend API development. Experienced with Python, LangChain, FAISS, Hugging Face, FastAPI, NLP pipelines, and modern LLM ecosystems, with additional domain experience in healthcare and biomedical engineering.",
+    "focus": [
+      "Generative AI",
+      "LLM Applications",
+      "RAG Systems",
+      "AI Chatbots & Knowledge Assistants",
+      "AI Automation",
+      "Machine Learning",
+      "Document Intelligence",
+      "Healthcare AI",
+      "Backend AI Engineering"
+    ],
+    "eyebrow": "01 / ABOUT",
+    "title": "From data to useful systems.",
+    "image": "",
+    "imageAlt": "Shishupal Rajpurohit",
+    "signal": "Practical AI · Production-minded engineering · Continuous experimentation"
+  },
+  "skills": {
+    "Languages & Frameworks": [
+      {
+        "name": "Python",
+        "icon": "https://cdn.simpleicons.org/python/ffffff",
+        "url": "https://www.python.org/"
+      },
+      {
+        "name": "FastAPI",
+        "icon": "https://cdn.simpleicons.org/fastapi/ffffff",
+        "url": "https://fastapi.tiangolo.com/"
+      },
+      {
+        "name": "Streamlit",
+        "icon": "https://cdn.simpleicons.org/streamlit/ffffff",
+        "url": "https://streamlit.io/"
+      }
+    ],
+    "AI / ML / GenAI": [
+      {
+        "name": "Machine Learning",
+        "icon": "https://cdn.simpleicons.org/scikitlearn/ffffff",
+        "url": "https://scikit-learn.org/stable/"
+      },
+      {
+        "name": "Supervised Learning",
+        "icon": "https://cdn.simpleicons.org/scikitlearn/ffffff",
+        "url": "https://scikit-learn.org/stable/supervised_learning.html"
+      },
+      {
+        "name": "Unsupervised Learning",
+        "icon": "https://cdn.simpleicons.org/scikitlearn/ffffff",
+        "url": "https://scikit-learn.org/stable/unsupervised_learning.html"
+      },
+      {
+        "name": "LLMs",
+        "icon": "https://cdn.simpleicons.org/huggingface/ffffff",
+        "url": "https://huggingface.co/models?pipeline_tag=text-generation"
+      },
+      {
+        "name": "RAG",
+        "icon": "https://cdn.simpleicons.org/langchain/ffffff",
+        "url": "https://www.langchain.com/"
+      },
+      {
+        "name": "Prompt Engineering",
+        "icon": "https://cdn.simpleicons.org/openai/ffffff",
+        "url": "https://www.promptingguide.ai/"
+      },
+      {
+        "name": "Agentic AI (Learning)",
+        "icon": "https://cdn.simpleicons.org/langchain/ffffff",
+        "url": "https://www.langchain.com/"
+      },
+      {
+        "name": "LangChain",
+        "icon": "https://cdn.simpleicons.org/langchain/ffffff",
+        "url": "https://www.langchain.com/"
+      },
+      {
+        "name": "FAISS",
+        "icon": "https://cdn.simpleicons.org/faiss/ffffff",
+        "url": "https://faiss.ai/"
+      },
+      {
+        "name": "Hugging Face",
+        "icon": "https://cdn.simpleicons.org/huggingface/ffffff",
+        "url": "https://huggingface.co/"
+      },
+      {
+        "name": "Scikit-learn",
+        "icon": "https://cdn.simpleicons.org/scikitlearn/ffffff",
+        "url": "https://scikit-learn.org/"
+      },
+      {
+        "name": "Transformers",
+        "icon": "https://cdn.simpleicons.org/huggingface/ffffff",
+        "url": "https://huggingface.co/docs/transformers/"
+      }
+    ],
+    "NLP": [
+      {
+        "name": "NLTK",
+        "icon": "https://cdn.simpleicons.org/nltk/ffffff",
+        "url": "https://www.nltk.org/"
+      },
+      {
+        "name": "SpaCy",
+        "icon": "https://cdn.simpleicons.org/spacy/ffffff",
+        "url": "https://spacy.io/"
+      },
+      {
+        "name": "TextBlob",
+        "icon": "https://cdn.simpleicons.org/textblob/ffffff",
+        "url": "https://textblob.readthedocs.io/"
+      }
+    ],
+    "Data Science": [
+      {
+        "name": "Pandas",
+        "icon": "https://cdn.simpleicons.org/pandas/ffffff",
+        "url": "https://pandas.pydata.org/"
+      },
+      {
+        "name": "NumPy",
+        "icon": "https://cdn.simpleicons.org/numpy/ffffff",
+        "url": "https://numpy.org/"
+      },
+      {
+        "name": "Matplotlib",
+        "icon": "https://cdn.simpleicons.org/matplotlib/ffffff",
+        "url": "https://matplotlib.org/"
+      },
+      {
+        "name": "Seaborn",
+        "icon": "https://cdn.simpleicons.org/seaborn/ffffff",
+        "url": "https://seaborn.pydata.org/"
+      },
+      {
+        "name": "Plotly",
+        "icon": "https://cdn.simpleicons.org/plotly/ffffff",
+        "url": "https://plotly.com/python/"
+      }
+    ],
+    "Databases": [
+      {
+        "name": "MySQL",
+        "icon": "https://cdn.simpleicons.org/mysql/ffffff",
+        "url": "https://www.mysql.com/"
+      }
+    ],
+    "Developer Tools": [
+      {
+        "name": "Jupyter Notebook",
+        "icon": "https://cdn.simpleicons.org/jupyter/ffffff",
+        "url": "https://jupyter.org/"
+      },
+      {
+        "name": "Google Colab",
+        "icon": "https://cdn.simpleicons.org/googlecolab/ffffff",
+        "url": "https://colab.research.google.com/"
+      },
+      {
+        "name": "VS Code",
+        "icon": "https://cdn.simpleicons.org/visualstudiocode/ffffff",
+        "url": "https://code.visualstudio.com/"
+      },
+      {
+        "name": "Git",
+        "icon": "https://cdn.simpleicons.org/git/ffffff",
+        "url": "https://git-scm.com/"
+      }
+    ],
+    "Deployment / Infrastructure": [
+      {
+        "name": "Docker",
+        "icon": "https://cdn.simpleicons.org/docker/ffffff",
+        "url": "https://www.docker.com/"
+      },
+      {
+        "name": "WebSocket",
+        "icon": "https://cdn.simpleicons.org/websockets/ffffff",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
+      },
+      {
+        "name": "WebRTC",
+        "icon": "https://cdn.simpleicons.org/webrtc/ffffff",
+        "url": "https://webrtc.org/"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "role": "AI & Data Science Engineer",
+      "company": "BrainHap",
+      "dates": "Nov 2025 – May 2026",
+      "location": "Mumbai, MH, India",
+      "details": [
+        "Developed internal AI-powered workflow automation tools for reporting, task management, attendance tracking, content management, and operational processes using Python and FastAPI.",
+        "Built Retrieval-Augmented Generation (RAG) based document search and knowledge-assistant solutions using LangChain, Hugging Face embeddings, and FAISS.",
+        "Designed AI-assisted content management and reporting workflows to streamline administrative operations and reduce repetitive manual tasks.",
+        "Developed backend APIs and automation services for integrating LLM-powered features into internal platforms and business workflows.",
+        "Worked on document processing, semantic search, prompt engineering, and LLM-based information retrieval use cases.",
+        "Collaborated with product and business teams to rapidly prototype AI solutions, convert requirements into working applications, and iterate based on stakeholder feedback.",
+        "Contributed to backend architecture, system integration, and optimization of AI-powered features."
+      ],
+      "url": "",
+      "image": "",
+      "imageAlt": "BrainHap"
+    },
+    {
+      "role": "Freelance Generative AI Engineer",
+      "company": "Upwork",
+      "dates": "Aug 2025 – Nov 2025",
+      "location": "Remote",
+      "details": [
+        "Built a Sentiment Trend Reader dashboard for a private client using Google Trends, sentiment analysis, and related news coverage to analyze sentiment around trending topics.",
+        "Developed the solution using Python, LLM-based sentiment analysis, and external data sources, delivering a functional analytics dashboard for the client's use case."
+      ],
+      "url": "",
+      "image": "",
+      "imageAlt": "Upwork"
+    },
+    {
+      "role": "Biomedical Engineer",
+      "company": "Sindoori Management Solutions (Indraprastha Apollo Hospitals)",
+      "dates": "Jun 2024 – Jun 2025",
+      "location": "New Delhi, India",
+      "details": [
+        "Worked as part of the Biomedical Engineering team at Indraprastha Apollo Hospitals, supporting hospital equipment and operations.",
+        "Contributed to the setup and biomedical infrastructure planning for a 50-bed Apollo Women’s Cancer Centre in Defence Colony.",
+        "Managed and maintained 250+ critical medical devices including ventilators, multipara monitors, infusion pumps, and diagnostic systems, maintaining 99% equipment uptime.",
+        "Performed daily operational rounds and coordinated high-priority breakdown troubleshooting with OEM engineers and clinical teams.",
+        "Developed Python-based tools to automate equipment audit checklists and generate preventive-maintenance alerts, improving audit readiness and reducing manual errors.",
+        "Managed procurement cycles including vendor negotiation, quotation comparison, technical evaluation, and inventory coordination.",
+        "Maintained CM/PM activities, AMC/CMC schedules, and regulatory documentation in alignment with JCI and NABH standards.",
+        "Collaborated cross-functionally during installations, retrofitting, and project execution across OR, ICU, NICU, and diagnostic departments."
+      ],
+      "url": "",
+      "image": "",
+      "imageAlt": "Sindoori Management Solutions"
+    },
+    {
+      "role": "Data Science Intern",
+      "company": "Ai Variant",
+      "dates": "Feb 2023 – Nov 2023",
+      "location": "Remote",
+      "details": [
+        "Applied machine learning and data analysis techniques to solve business-oriented problems using Python and data science libraries.",
+        "Worked with Pandas, NumPy, and Scikit-learn to build and evaluate predictive models and analytical solutions.",
+        "Performed data collection and web scraping using APIs and BeautifulSoup to support data-driven projects.",
+        "Worked with MySQL for data extraction, cleaning, transformation, and analysis.",
+        "Developed a Book Recommender System using collaborative and content-based filtering.",
+        "Built a Resume Analyzer/Parser using NLP, entity recognition, and skill matching.",
+        "Performed Cluster Analysis using K-Means, Hierarchical clustering, and DBSCAN.",
+        "Collaborated using GitHub and participated in project-based development workflows."
+      ],
+      "url": "",
+      "image": "",
+      "imageAlt": "Ai Variant"
+    },
+    {
+      "role": "Service Engineer",
+      "company": "Kirloskar Technologies Pvt. Ltd. (KTPL)",
+      "dates": "Sep 2021 – Jan 2023",
+      "location": "Pali, RJ, India",
+      "details": [
+        "Provided installation, calibration, and technical support for critical-care and diagnostic equipment including ventilators, anesthesia machines, monitors, ECGs, X-Ray machines, and syringe pumps.",
+        "Handled preventive and corrective maintenance across hospitals in Rajasthan and Delhi NCR, maintaining approximately 95% uptime for life-saving devices.",
+        "Coordinated with OEM teams and hospital staff to troubleshoot complex hardware and software issues and minimize equipment downtime.",
+        "Created Excel- and Python-based tools to log maintenance history, schedule preventive maintenance, and auto-generate service reports.",
+        "Trained clinical staff and nurses on equipment usage and conducted on-site demonstrations for new installations.",
+        "Managed spare-parts inventory, cost estimations, and vendor negotiations to support service execution.",
+        "Maintained compliance with hospital protocols and biomedical safety standards."
+      ],
+      "url": "",
+      "image": "",
+      "imageAlt": "Kirloskar Technologies Pvt. Ltd. (KTPL)"
+    }
+  ],
+  "projects": [
+    {
+      "id": "renewal-intelligence",
+      "title": "Renewal Intelligence Engine",
+      "category": "Predictive ML",
+      "description": "AI-powered customer renewal risk prediction system combining structured customer health signals with LLM-extracted signals from unstructured customer notes.",
+      "technologies": [
+        "Python",
+        "Random Forest",
+        "FastAPI",
+        "Streamlit",
+        "Fuzzy Entity Matching"
+      ],
+      "features": [
+        "Customer health data",
+        "Usage and NPS signals",
+        "Support-ticket signals",
+        "LLM-extracted notes",
+        "Probability-based risk scoring"
+      ],
+      "featured": true,
+      "order": 1,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/renewal_intelligence_engine",
+      "image": "",
+      "imageAlt": "Renewal Intelligence Engine"
+    },
+    {
+      "id": "bme-bot",
+      "title": "BME_Bot",
+      "category": "RAG / Healthcare AI",
+      "description": "Biomedical engineering AI assistant using Retrieval-Augmented Generation over technical manuals and biomedical PDFs for document-grounded question answering.",
+      "technologies": [
+        "LangChain",
+        "FAISS",
+        "Groq",
+        "DeepSeek R1 Distill",
+        "Hugging Face",
+        "Streamlit",
+        "Docker"
+      ],
+      "features": [
+        "Biomedical manuals",
+        "PDF ingestion",
+        "Semantic retrieval",
+        "Document-grounded Q&A",
+        "OCR/document processing"
+      ],
+      "featured": true,
+      "order": 2,
+      "demoUrl": "https://bmebot.streamlit.app/",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/BME_Bot",
+      "image": "",
+      "imageAlt": "BME_Bot"
+    },
+    {
+      "id": "facial-emotion",
+      "title": "Facial Emotion Detector Pro",
+      "category": "Computer Vision",
+      "description": "Real-time facial emotion recognition system supporting webcam streams and uploaded images with multi-provider inference and live confidence scoring.",
+      "technologies": [
+        "MediaPipe",
+        "FastAPI",
+        "Docker",
+        "Hugging Face",
+        "Groq",
+        "OpenRouter",
+        "WebSocket"
+      ],
+      "features": [
+        "15–30 FPS recognition",
+        "7 emotion classes",
+        "Up to 91% accuracy",
+        "REST + WebSocket APIs",
+        "Live confidence scores",
+        "Multi-provider inference fallback",
+        "Render deployment"
+      ],
+      "featured": true,
+      "order": 3,
+      "metrics": [
+        "15–30 FPS",
+        "7 classes",
+        "Up to 91% accuracy"
+      ],
+      "demoUrl": "https://face-emotion-detector-fjuk.onrender.com/",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Face_emotion_detector",
+      "image": "",
+      "imageAlt": "Facial Emotion Detector Pro"
+    },
+    {
+      "id": "audio-emotion",
+      "title": "Audio Emotion Classifier Pro",
+      "category": "Audio AI",
+      "date": "Oct 2025",
+      "description": "Ultra-lightweight API-only audio emotion recognition system with smart segmentation, multi-speaker diarization, structured emotion timelines, and real-time processing.",
+      "technologies": [
+        "FastAPI",
+        "WebRTC",
+        "LibROSA",
+        "Groq",
+        "Hugging Face",
+        "OpenRouter",
+        "Docker"
+      ],
+      "features": [
+        "Real-time WebSocket streaming",
+        "Smart segmentation",
+        "Speaker diarization",
+        "Emotion timeline",
+        "Confidence scores",
+        "Multi-provider inference",
+        "Render deployment"
+      ],
+      "featured": true,
+      "order": 4,
+      "metrics": [
+        "<500ms processing",
+        "<50MB footprint"
+      ],
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/audio_emotion_classifier",
+      "image": "",
+      "imageAlt": "Audio Emotion Classifier Pro"
+    },
+    {
+      "id": "apparel",
+      "title": "AI Apparel Design System",
+      "category": "Generative AI",
+      "date": "Sep 2025 – Nov 2025",
+      "description": "Generative apparel workflow for producing garment mockups and production-ready visual assets using image generation, prompt engineering, post-processing, and automated packaging.",
+      "technologies": [
+        "Streamlit",
+        "Hugging Face",
+        "Prompt Engineering",
+        "PyInstaller"
+      ],
+      "features": [
+        "Garment generation",
+        "Image generation",
+        "Prompt-engineered templates",
+        "Post-processing",
+        "Batch generation",
+        "Timestamped output",
+        "Validation",
+        "Production packaging"
+      ],
+      "featured": false,
+      "order": 5,
+      "demoUrl": "",
+      "githubUrl": "",
+      "image": "",
+      "imageAlt": "AI Apparel Design System"
+    },
+    {
+      "id": "multipurpose-rag",
+      "title": "Multipurpose AI RAG Assistant",
+      "category": "RAG / Backend",
+      "description": "Multi-domain RAG assistant evolved from BME_Bot with real-time PDF ingestion, semantic search, document-grounded Q&A, API logging, and Dockerized backend architecture.",
+      "technologies": [
+        "LangChain",
+        "FAISS",
+        "Groq",
+        "Flask",
+        "Chainlit",
+        "PostgreSQL",
+        "Docker"
+      ],
+      "features": [
+        "Real-time PDF ingestion",
+        "Semantic search",
+        "Document QA",
+        "API usage logging",
+        "Multi-domain knowledge assistance",
+        "Password-protected access in progress",
+        "Dockerized deployment"
+      ],
+      "featured": false,
+      "order": 6,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/multipurpose-chatbot",
+      "image": "",
+      "imageAlt": "Multipurpose AI RAG Assistant"
+    },
+    {
+      "id": "sentiment-trend",
+      "title": "Sentiment Trend Reader",
+      "category": "NLP / Analytics",
+      "description": "Automated trend analysis dashboard combining Google Trends, sentiment analysis, and related news coverage to evaluate sentiment around trending topics.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "TextBlob",
+        "Tweepy",
+        "BeautifulSoup"
+      ],
+      "features": [
+        "Google Trends",
+        "Trending keyword extraction",
+        "Sentiment analysis",
+        "News coverage",
+        "Dashboard reporting"
+      ],
+      "featured": false,
+      "order": 7,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/SENTIMENTTRENDREADER",
+      "image": "",
+      "imageAlt": "Sentiment Trend Reader"
+    },
+    {
+      "id": "book-recommender",
+      "title": "Book Recommender System",
+      "category": "Machine Learning",
+      "description": "Recommendation system built during the Ai Variant internship using collaborative and content-based filtering techniques.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "NLP"
+      ],
+      "features": [
+        "Collaborative filtering",
+        "Content-based filtering"
+      ],
+      "featured": false,
+      "order": 8,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Book-Recommender-System",
+      "image": "",
+      "imageAlt": "Book Recommender System"
+    },
+    {
+      "id": "resume-analyzer",
+      "title": "Resume Analyzer / Parser",
+      "category": "NLP",
+      "description": "NLP-based resume parsing system for extracting structured information, performing entity recognition, and matching candidate skills.",
+      "technologies": [
+        "Python",
+        "NLP",
+        "SpaCy"
+      ],
+      "features": [
+        "Entity recognition",
+        "Structured resume parsing",
+        "Skill matching",
+        "Candidate shortlisting support"
+      ],
+      "featured": false,
+      "order": 9,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Resume-Analyzer-Parser",
+      "image": "",
+      "imageAlt": "Resume Analyzer / Parser"
+    },
+    {
+      "id": "cluster-analyzer",
+      "title": "Cluster Analyzer",
+      "category": "Unsupervised Learning",
+      "description": "Cluster analysis solution using multiple unsupervised learning techniques to uncover patterns in structured and socio-economic data.",
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas"
+      ],
+      "features": [
+        "K-Means",
+        "Hierarchical clustering",
+        "DBSCAN"
+      ],
+      "featured": false,
+      "order": 10,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Cluster-Analyzer",
+      "image": "",
+      "imageAlt": "Cluster Analyzer"
+    },
+    {
+      "id": "yt-downloader",
+      "title": "YT Downloader",
+      "category": "Utility / Fun Project",
+      "description": "A utility project for downloading YouTube content, created as a practical and fun side project.",
+      "technologies": [],
+      "features": [
+        "YouTube video downloading"
+      ],
+      "featured": false,
+      "order": 11,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/YT-Downloader",
+      "image": "",
+      "imageAlt": "YT Downloader"
+    },
+    {
+      "id": "walmart-data-analysis",
+      "title": "Walmart Data Analysis",
+      "category": "Data Analysis / SQL",
+      "description": "Data analysis project using MySQL to explore and analyze Walmart-related data and derive structured business insights.",
+      "technologies": [
+        "MySQL",
+        "SQL"
+      ],
+      "features": [
+        "SQL-based data analysis",
+        "Data exploration",
+        "Business-oriented queries"
+      ],
+      "featured": false,
+      "order": 12,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Walmart-Data-Analysis-by-MySQL",
+      "image": "",
+      "imageAlt": "Walmart Data Analysis"
+    },
+    {
+      "id": "nifty-web-scraping",
+      "title": "NIFTY Data Web Scraping",
+      "category": "Data Collection / Web Scraping",
+      "description": "Web scraping project for collecting NIFTY-related market data for data analysis and experimentation.",
+      "technologies": [
+        "Python",
+        "BeautifulSoup",
+        "Web Scraping"
+      ],
+      "features": [
+        "NIFTY data collection",
+        "Web scraping",
+        "Structured data extraction"
+      ],
+      "featured": false,
+      "order": 13,
+      "demoUrl": "",
+      "githubUrl": "https://github.com/ShishupalRajpurohit/Web-Scrapping",
+      "image": "",
+      "imageAlt": "NIFTY Data Web Scraping"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Electrical Engineering",
+      "institution/college": "Govt. Engineering College, Bikaner",
+      "university": "Rajasthan Technical University",
+      "dates": "2017–2021",
+      "url": "",
+      "image": "",
+      "imageAlt": "Govt. Engineering College, Bikaner"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "SQL Projects for Beginners",
+      "issuer": "Great Learning",
+      "date": "Mar 2024",
+      "credentialId": "VIGZHVVU",
+      "url": "",
+      "image": "",
+      "imageAlt": "SQL Projects for Beginners"
+    },
+    {
+      "name": "Data Science Project Program",
+      "issuer": "Ai Variant",
+      "date": "Aug 2023",
+      "credentialId": "AIV/23-24/Q3/08/13472",
+      "url": "",
+      "image": "",
+      "imageAlt": "Data Science Project Program"
+    },
+    {
+      "name": "Data Science Certification",
+      "issuer": "ExcelR",
+      "date": "Jul 2023",
+      "credentialId": "15034/EXCELR/10072023",
+      "url": "",
+      "image": "",
+      "imageAlt": "Data Science Certification"
+    },
+    {
+      "name": "Data Visualization using Tableau",
+      "issuer": "Great Learning",
+      "date": "",
+      "credentialId": "EXAJDJDR",
+      "url": "",
+      "image": "",
+      "imageAlt": "Data Visualization using Tableau"
+    },
+    {
+      "name": "Face Detection with OpenCV in Python",
+      "issuer": "Great Learning",
+      "date": "",
+      "credentialId": "CZCGSFZI",
+      "url": "",
+      "image": "",
+      "imageAlt": "Face Detection with OpenCV in Python"
+    },
+    {
+      "name": "SQL for Data Science",
+      "issuer": "Great Learning",
+      "date": "",
+      "credentialId": "GTJIISGS",
+      "url": "",
+      "image": "",
+      "imageAlt": "SQL for Data Science"
+    }
+  ],
+  "highlights": [
+    "Public technical project launches and live AI demos",
+    "Conducted 10+ AI/ML intern interviews covering Python fundamentals, AI/ML concepts, and problem-solving",
+    "Built and deployed practical AI systems across RAG, computer vision, audio AI, NLP, and workflow automation"
+  ],
+  "navigation": [
+    "About",
+    "Skills",
+    "Experience",
+    "Projects",
+    "Architecture",
+    "Education",
+    "Certifications",
+    "Contact"
+  ],
+  "skillBallCount": 31,
+  "site": {
+    "url": "",
+    "title": "Shishupal Rajpurohit — AI Engineer | GenAI | RAG",
+    "description": "Portfolio of Shishupal Rajpurohit, an AI Engineer building practical Generative AI, RAG, machine learning, computer vision, audio AI, and intelligent automation systems.",
+    "ogImage": "",
+    "favicon": "",
+    "language": "en"
+  },
+  "hero": {
+    "eyebrow": "AI Engineer · GenAI · RAG · AI Automation",
+    "location": "Mumbai, MH, India",
+    "headline": "Engineering intelligence that works in the real world.",
+    "chips": [
+      "RAG",
+      "VECTOR SEARCH",
+      "LLM",
+      "AI AUTOMATION"
+    ],
+    "quickSkills": [
+      "Python",
+      "RAG",
+      "LLMs",
+      "LangChain",
+      "FastAPI",
+      "Machine Learning"
+    ],
+    "pipeline": [
+      "DATA",
+      "EMBED",
+      "RETRIEVE",
+      "LLM",
+      "API",
+      "OUTPUT"
+    ],
+    "image": "",
+    "imageAlt": "Shishupal Rajpurohit",
+    "headlineBefore": "Engineering ",
+    "headlineAccent": "intelligence",
+    "headlineAfter": " that works in the real world."
+  },
+  "architecture": {
+    "eyebrow": "05 / SYSTEM THINKING",
+    "title": "How the pieces connect.",
+    "nodes": [
+      {
+        "name": "Data",
+        "detail": "Python / sources"
+      },
+      {
+        "name": "Preprocessing",
+        "detail": "Pandas / NLP"
+      },
+      {
+        "name": "Embeddings / ML",
+        "detail": "Hugging Face"
+      },
+      {
+        "name": "Vector DB",
+        "detail": "FAISS"
+      },
+      {
+        "name": "Retrieval",
+        "detail": "LangChain"
+      },
+      {
+        "name": "LLM",
+        "detail": "Groq / Modern LLMs"
+      },
+      {
+        "name": "API",
+        "detail": "FastAPI"
+      },
+      {
+        "name": "Application",
+        "detail": "Streamlit / Chainlit / UI"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "08 / CONTACT",
+    "headline": "Have a problem worth building around?",
+    "description": "Open to AI/ML roles, Generative AI projects, freelance work, collaborations, and technical conversations."
+  },
+  "resume": {
+    "url": "/resume/resume.pdf",
+    "label": "Download Resume"
+  },
+  "contentManagement": {
+    "note": "Edit this JSON file only. Empty strings mean the UI hides the corresponding link/image.",
+    "imageBasePath": "/images/",
+    "projectImageBasePath": "/projects/"
+  }
+}
